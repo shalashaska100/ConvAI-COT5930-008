@@ -52,7 +52,6 @@ def upload_audio():
         file.save(file_path)
 
         # Google Speech-to-Text API integration
-
         client = speech.SpeechClient()
         with open(file_path, 'rb') as audio_file:
             content = audio_file.read()
