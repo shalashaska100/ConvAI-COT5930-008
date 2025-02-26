@@ -1,0 +1,2 @@
+Input text is: Hello
+Input sentiment is NEUTRAL
