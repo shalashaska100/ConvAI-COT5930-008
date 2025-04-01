@@ -1,0 +1,9 @@
+Okay, here's the analysis:
+
+**Text:** Alright, so I'm recording another audio because the first one was in Arabic, and Arabic is one of the languages that I found out it was supported by sentiment analysis, which is kind of neat, not gonna lie. So I'm recording a new audio and I would love to say that I love dolphins.
+
+**Your opinion:** The speaker seems genuinely enthusiastic about the sentiment analysis feature supporting Arabic and also expresses a fondness for dolphins. Overall, the tone is positive and cheerful.
+
+**Sentiment Analysis:** Positive
+
+**Why:** The speaker uses phrases like "kind of neat," "not gonna lie," and "I would love to say." The statement "I love dolphins" is a clear expression of positive emotion. The tone of the voice in general also sounds upbeat, contributing to the overall positive sentiment.

@@ -32,28 +32,7 @@
                     </li>
                     {% endfor %}
                 </ul>
-            </td>
-            <td style="width:50%">
-                <h2>Type in your text to generate audio</h2>
-            
-                <form action="/upload_text" method="post">
-                    <textarea name="text" rows="10" cols="50"></textarea>
-                    <br>
-                    <input type="submit" value="Upload">
-                </form>
-                <h2>Generated Audio Files</h2>
-                <ul>
-                    {% for file in tts_files %}
-                    <li>
-                        <audio controls>
-                            <source src="{{ url_for('uploaded_file', folder='tts', filename=file) }}">
-                            Your browser does not support the audio element.
-                        </audio><br>
-                        {{ file }}
-                        <a href="{{ url_for('uploaded_file', folder='uploads', filename=file) }}.wav">{{file}}.wav</a>
-                    {% endfor %}
-                </ul>
-            </td>            
+            </td>          
         </tr>
     </table>
 

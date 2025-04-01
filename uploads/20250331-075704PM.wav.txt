@@ -1,0 +1,9 @@
+Okay, here's the analysis of the audio:
+
+**Text:** طيب سجل واحد جديد تست تست. الو.
+
+**Your opinion:**
+The speaker appears to be testing an audio recording setup. They say "Okay record a new one test test, Hello" in Arabic which shows they are looking to test something. It seems like a casual, functional statement.
+
+**Sentiment Analysis:** Neutral
+**Why:** The words used are either introductory (okay) or purely functional (testing the mic, saying hello). There are no emotionally charged words or phrases to suggest any specific sentiment.
